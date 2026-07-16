@@ -11,7 +11,7 @@ import java.util.Map;
 public final class Config {
 
     private static final String DEFAULT_TARGET_URL = "https://ensiasd.uiz.ac.ma/";
-    private static final String DEFAULT_STATE_FILE = "src/main/resources/state.txt";
+    private static final String DEFAULT_STATE_FILE = "src/main/resources/state.json";
     private static final String DEFAULT_USER_AGENT = "ensiasd-monitor/1.0";
     private static final Duration DEFAULT_TIMEOUT = Duration.ofSeconds(30);
 
