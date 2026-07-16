@@ -42,7 +42,7 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
-          STATE_FILE: src/main/resources/state.txt
+          STATE_FILE: src/main/resources/state.json
         run: mvn -B -ntp exec:java
 
       - name: Persist monitor state
