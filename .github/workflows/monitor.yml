@@ -47,14 +47,14 @@ jobs:
 
       - name: Persist monitor state
         run: |
-          if git diff --quiet -- src/main/resources/state.txt; then
+          if git diff --quiet -- src/main/resources/state.json; then
             echo "No state change to commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/main/resources/state.txt
+          git add src/main/resources/state.json
           git commit -m "Update ENSIASD monitor state"
           git pull --rebase
           git push
