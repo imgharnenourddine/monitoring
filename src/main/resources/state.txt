@@ -1,0 +1,34 @@
+{
+  "hash" : "49da8a5b1cc800418e4202b1e443f8e0a7023aeb9fd7c4bcdca4b574a56c64d3",
+  "articles" : [ {
+    "title" : "Avis de concours d'accés au cycle préparatoire",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/06/20/avis-de-concours-dacces-au-cycle-preparatoire/"
+  }, {
+    "title" : "Avis de concours d'accés en 1ère année du cycle ingénieur",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/06/19/avis-de-concours-dacces-en-1ere-annee-du-cycle-ingenieur/"
+  }, {
+    "title" : "إعلان عن مباريات التوظيف",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/06/10/%d8%a5%d8%b9%d9%84%d8%a7%d9%86-%d8%b9%d9%86-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%88%d8%b8%d9%8a%d9%81/"
+  }, {
+    "title" : "إعلان عن إجراء مباريات توظيف أساتذة محاضرين",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/06/10/%d8%a5%d8%b9%d9%84%d8%a7%d9%86-%d8%b9%d9%86-%d8%a5%d8%ac%d8%b1%d8%a7%d8%a1-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d8%aa%d9%88%d8%b8%d9%8a%d9%81-%d8%a3%d8%b3%d8%a7%d8%aa%d8%b0%d8%a9-%d9%85%d8%ad/"
+  }, {
+    "title" : "الإطار المرجعي للتكوينات عبر التوقيت الميسر",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/04/22/%d8%a7%d9%84%d8%a5%d8%b7%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b1%d8%ac%d8%b9%d9%8a-%d9%84%d9%84%d8%aa%d9%83%d9%88%d9%8a%d9%86%d8%a7%d8%aa-%d8%b9%d8%a8%d8%b1-%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa/"
+  }, {
+    "title" : "[ENSIASD] FUTAROAD الملتقى الاقليمي",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/04/17/ensiasd-futaroad-%d8%a7%d9%84%d9%85%d9%84%d8%aa%d9%82%d9%89-%d8%a7%d9%84%d8%a7%d9%82%d9%84%d9%8a%d9%85%d9%8a/"
+  }, {
+    "title" : "[ENSIASD] Forum Régional d'Orientation",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/04/10/ensiasd-forum-regional-dorientation/"
+  }, {
+    "title" : "[ENSIASD] Stitch for good Hult prize",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/04/09/ensiasd-stitch-for-good-hult-prize/"
+  }, {
+    "title" : "[ENSIASD] Lumova Hult prize",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/04/09/ensiasd-lumova-hult-prize/"
+  }, {
+    "title" : "[ENSIASD] FedTwin à l’IEEE ICCITX’26",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/04/08/ensiasd-iccitx-fedtwin/"
+  } ]
+}
