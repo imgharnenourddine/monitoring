@@ -1,5 +1,5 @@
 {
-  "hash" : "49da8a5b1cc800418e4202b1e443f8e0a7023aeb9fd7c4bcdca4b574a56c64d3",
+  "hash" : "7e55643dbf3f30a1c77e0a82fdd898b481f7b525d537769759cd62f7da528c31",
   "articles" : [ {
     "title" : "Avis de concours d'accés au cycle préparatoire",
     "url" : "https://ensiasd.uiz.ac.ma/2026/06/20/avis-de-concours-dacces-au-cycle-preparatoire/"
