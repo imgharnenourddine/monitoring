@@ -1,8 +1,11 @@
 {
-  "hash" : "a56d7a1de05607207018d4a0ff867fb83b3f761ccd818a6469b6397fc7888930",
+  "hash" : "b6b2654809e45e142d410535173abcf2ea9126ba0ce5dc335898fb604514e1cc",
   "articles" : [ {
-    "title" : "Liste Concours",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/07/17/liste-concours/"
+    "title" : "Concours d’accès en 1ère Année du Cycle Ingénieur Année Universitaire 2026/2027",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/07/17/concours-dacces-en-1ere-annee-du-cycle-ingenieur-annee-universitaire-2026-2027/"
+  }, {
+    "title" : "List of candidates for the first-year engineering",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/07/17/list-of-candidates-for-the-first-year-engineering/"
   }, {
     "title" : "Avis de concours d'accés au cycle préparatoire",
     "url" : "https://ensiasd.uiz.ac.ma/2026/06/20/avis-de-concours-dacces-au-cycle-preparatoire/"
@@ -27,8 +30,5 @@
   }, {
     "title" : "[ENSIASD] Stitch for good Hult prize",
     "url" : "https://ensiasd.uiz.ac.ma/2026/04/09/ensiasd-stitch-for-good-hult-prize/"
-  }, {
-    "title" : "[ENSIASD] Lumova Hult prize",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/04/09/ensiasd-lumova-hult-prize/"
   } ]
 }
