@@ -1,6 +1,9 @@
 {
-  "hash" : "7e55643dbf3f30a1c77e0a82fdd898b481f7b525d537769759cd62f7da528c31",
+  "hash" : "a56d7a1de05607207018d4a0ff867fb83b3f761ccd818a6469b6397fc7888930",
   "articles" : [ {
+    "title" : "Liste Concours",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/07/17/liste-concours/"
+  }, {
     "title" : "Avis de concours d'accés au cycle préparatoire",
     "url" : "https://ensiasd.uiz.ac.ma/2026/06/20/avis-de-concours-dacces-au-cycle-preparatoire/"
   }, {
@@ -27,8 +30,5 @@
   }, {
     "title" : "[ENSIASD] Lumova Hult prize",
     "url" : "https://ensiasd.uiz.ac.ma/2026/04/09/ensiasd-lumova-hult-prize/"
-  }, {
-    "title" : "[ENSIASD] FedTwin à l’IEEE ICCITX’26",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/04/08/ensiasd-iccitx-fedtwin/"
   } ]
 }
