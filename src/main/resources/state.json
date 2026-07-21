@@ -1,6 +1,9 @@
 {
-  "hash" : "4afe5fec6b7d6cabf95e7e5314dc2494c3d381ada406467cf71c2bfeb7721b45",
+  "hash" : "29c134a025aef4f3e366424e2eb4a8588cb727eebf7a47bee4a089e5ee2b94b5",
   "articles" : [ {
+    "title" : "Liste des candidats convoqués pour le concours d'accès en première année préparatoire au cycle d'ingénieur",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/07/21/liste-des-candidats-convoques-pour-le-concours-dacces-en-premiere-annee-preparatoire-au-cycle-dingenieur/"
+  }, {
     "title" : "Entretiens Oraux",
     "url" : "https://ensiasd.uiz.ac.ma/2026/07/21/entretiens-oraux/"
   }, {
@@ -27,8 +30,5 @@
   }, {
     "title" : "[ENSIASD] FUTAROAD الملتقى الاقليمي",
     "url" : "https://ensiasd.uiz.ac.ma/2026/04/17/ensiasd-futaroad-%d8%a7%d9%84%d9%85%d9%84%d8%aa%d9%82%d9%89-%d8%a7%d9%84%d8%a7%d9%82%d9%84%d9%8a%d9%85%d9%8a/"
-  }, {
-    "title" : "[ENSIASD] Forum Régional d'Orientation",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/04/10/ensiasd-forum-regional-dorientation/"
   } ]
 }
