@@ -1,6 +1,9 @@
 {
-  "hash" : "b6b2654809e45e142d410535173abcf2ea9126ba0ce5dc335898fb604514e1cc",
+  "hash" : "4afe5fec6b7d6cabf95e7e5314dc2494c3d381ada406467cf71c2bfeb7721b45",
   "articles" : [ {
+    "title" : "Entretiens Oraux",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/07/21/entretiens-oraux/"
+  }, {
     "title" : "Concours d’accès en 1ère Année du Cycle Ingénieur Année Universitaire 2026/2027",
     "url" : "https://ensiasd.uiz.ac.ma/2026/07/17/concours-dacces-en-1ere-annee-du-cycle-ingenieur-annee-universitaire-2026-2027/"
   }, {
@@ -27,8 +30,5 @@
   }, {
     "title" : "[ENSIASD] Forum Régional d'Orientation",
     "url" : "https://ensiasd.uiz.ac.ma/2026/04/10/ensiasd-forum-regional-dorientation/"
-  }, {
-    "title" : "[ENSIASD] Stitch for good Hult prize",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/04/09/ensiasd-stitch-for-good-hult-prize/"
   } ]
 }
