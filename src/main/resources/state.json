@@ -1,6 +1,9 @@
 {
-  "hash" : "8021eefe1e7fb1b9abe002154f0e20c219ce82168973452aef84ac04d27e5bce",
+  "hash" : "335acaec487169709d75f7f203ef6c2741d4fecd7f1539ad81f01f226beca538",
   "articles" : [ {
+    "title" : "Listes des candidats admis en 1ʳᵉ année du cycle ingénieur - 2026/2027",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/07/29/listes-des-candidats-admis-en-1%ca%b3%e1%b5%89-annee-du-cycle-ingenieur-2026-2027/"
+  }, {
     "title" : "List of successful candidates (DEIS) admitted to the first year of the engineering program 2026/2027",
     "url" : "https://ensiasd.uiz.ac.ma/2026/07/27/list-of-successful-candidates-deis-admitted-to-the-first-year-of-the-engineering-program-2026-2027/"
   }, {
@@ -27,8 +30,5 @@
   }, {
     "title" : "List of candidates for the first-year engineering",
     "url" : "https://ensiasd.uiz.ac.ma/2026/07/17/list-of-candidates-for-the-first-year-engineering/"
-  }, {
-    "title" : "Avis de concours d'accés au cycle préparatoire",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/06/20/avis-de-concours-dacces-au-cycle-preparatoire/"
   } ]
 }
