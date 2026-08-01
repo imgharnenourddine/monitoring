@@ -1,6 +1,12 @@
 {
-  "hash" : "7f3ccc16ab257dc66484ac9b7f0d58afb7d88ed02e9a02621c81887b235e7cb9",
+  "hash" : "0412f47a47ce8a6a5a88dcc901ad862efd3c501b84cbb0171e3cf26b2df1e16e",
   "articles" : [ {
+    "title" : "List of Candidates Admitted from Waiting List No. 1 in Order of Merit",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/08/01/list-of-candidates-admitted-from-waiting-list-no-1-in-order-of-merit/"
+  }, {
+    "title" : "Liste des candidats admis de la liste d’attente n° 1 par ordre demérite première Année Préparatoire au cycle ingénieur 2026/2027",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/08/01/liste-des-candidats-admis-de-la-liste-dattente-n-1-par-ordre-demerite-premiere-annee-preparatoire-au-cycle-ingenieur-2026-2027/"
+  }, {
     "title" : "Listes des candidats admis en 1ᵉʳᵉ année du cycle ingénieur Année universitaire 2026/2027",
     "url" : "https://ensiasd.uiz.ac.ma/2026/07/29/listes-des-candidats-admis-en-1%e1%b5%89%ca%b3%e1%b5%89-annee-du-cycle-ingenieur-annee-universitaire-2026-2027/"
   }, {
@@ -24,11 +30,5 @@
   }, {
     "title" : "Entretiens Oraux",
     "url" : "https://ensiasd.uiz.ac.ma/2026/07/21/entretiens-oraux/"
-  }, {
-    "title" : "Concours d’accès en 1ère Année du Cycle Ingénieur Année Universitaire 2026/2027",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/07/17/concours-dacces-en-1ere-annee-du-cycle-ingenieur-annee-universitaire-2026-2027/"
-  }, {
-    "title" : "List of candidates for the first-year engineering",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/07/17/list-of-candidates-for-the-first-year-engineering/"
   } ]
 }
