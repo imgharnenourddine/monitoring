@@ -1,6 +1,12 @@
 {
-  "hash" : "a041d397d1f35a86525d8f02de5fd23bc1b43af91c92f09e9fa66f175edd10ef",
+  "hash" : "3a22f308733c1de0531c9de5280dbd34413c84b9f6d15754958b706bf55dd5c4",
   "articles" : [ {
+    "title" : "Liste n° 2 des étudiants admis à partir de la liste d’attente n° 1, classés par ordre de mérite, en première année préparatoire au cycle ingénieur — Année universitaire 2026/2027",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/08/04/liste-n-2-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-classes-par-ordre-de-merite-en-premiere-annee-preparatoire-au-cycle-ingenieur-annee-universitaire-2026/"
+  }, {
+    "title" : "Liste n° 1 des étudiants admis à partir de la liste d’attente n° 1, par ordre de mérite, en 1ʳᵉ année du cycle ingénieur — Année universitaire 2026/2027",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/08/04/liste-n-1-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-par-ordre-de-merite-en-1%ca%b3%e1%b5%89-annee-du-cycle-ingenieur-annee-universitaire-2026-2027/"
+  }, {
     "title" : "List of Candidates Admitted (Round 2) from Waiting List No.1 in Order of Merit - Data Engineering and Intelligent Systems (DEIS)",
     "url" : "https://ensiasd.uiz.ac.ma/2026/08/04/list-of-candidates-admitted-round-2-from-waiting-list-no-1-in-order-of-merit-data-engineering-and-intelligent-systems-deis/"
   }, {
@@ -24,11 +30,5 @@
   }, {
     "title" : "Liste des candidats convoqués pour passer l’examen oral du concours d’accés en première année du cycle ingénieur",
     "url" : "https://ensiasd.uiz.ac.ma/2026/07/23/liste-des-candidats-convoques-pour-passer-lexamen-oral-du-concours-dacces-en-premiere-annee-du-cycle-ingenieur-2/"
-  }, {
-    "title" : "List of candidates selected for the first-year engineering program oral examination Data Engineering and Intelligent Systems (DEIS)",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/07/22/list-of-candidates-selected-for-the-first-year-engineering-program-oral-examination-data-engineering-and-intelligent-systems-deis/"
-  }, {
-    "title" : "Liste des candidats convoqués pour le concours d'accès en première année préparatoire au cycle d'ingénieur",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/07/21/liste-des-candidats-convoques-pour-le-concours-dacces-en-premiere-annee-preparatoire-au-cycle-dingenieur/"
   } ]
 }
