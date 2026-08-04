@@ -1,6 +1,9 @@
 {
-  "hash" : "0412f47a47ce8a6a5a88dcc901ad862efd3c501b84cbb0171e3cf26b2df1e16e",
+  "hash" : "a041d397d1f35a86525d8f02de5fd23bc1b43af91c92f09e9fa66f175edd10ef",
   "articles" : [ {
+    "title" : "List of Candidates Admitted (Round 2) from Waiting List No.1 in Order of Merit - Data Engineering and Intelligent Systems (DEIS)",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/08/04/list-of-candidates-admitted-round-2-from-waiting-list-no-1-in-order-of-merit-data-engineering-and-intelligent-systems-deis/"
+  }, {
     "title" : "List of Candidates Admitted from Waiting List No. 1 in Order of Merit",
     "url" : "https://ensiasd.uiz.ac.ma/2026/08/01/list-of-candidates-admitted-from-waiting-list-no-1-in-order-of-merit/"
   }, {
@@ -27,8 +30,5 @@
   }, {
     "title" : "Liste des candidats convoqués pour le concours d'accès en première année préparatoire au cycle d'ingénieur",
     "url" : "https://ensiasd.uiz.ac.ma/2026/07/21/liste-des-candidats-convoques-pour-le-concours-dacces-en-premiere-annee-preparatoire-au-cycle-dingenieur/"
-  }, {
-    "title" : "Entretiens Oraux",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/07/21/entretiens-oraux/"
   } ]
 }
