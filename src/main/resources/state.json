@@ -1,6 +1,9 @@
 {
-  "hash" : "f4bbffcabf97639b50e215d5c2229f00b846e9ed17d84270cfa015c516dd54ff",
+  "hash" : "37a2ec55817701133fc89ff1ed328448d25616f8e11f5e536fdd56997b50f46b",
   "articles" : [ {
+    "title" : "Liste n° 6 des étudiants admis à partir de la liste d’attente n° 1, classés par ordre de mérite, en première année préparatoire au cycle ingénieur — Année universitaire 2026/2027",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/09/07/liste-n-6-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-classes-par-ordre-de-merite-en-premiere-annee-preparatoire-au-cycle-ingenieur-annee-universitaire-2026/"
+  }, {
     "title" : "Liste n° 5 des étudiants admis à partir de la liste d’attente n° 1, classés par ordre de mérite, en première année préparatoire au cycle ingénieur — Année universitaire 2026/2027",
     "url" : "https://ensiasd.uiz.ac.ma/2026/09/04/liste-n-5-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-classes-par-ordre-de-merite-en-premiere-annee-preparatoire-au-cycle-ingenieur-annee-universitaire-2026/"
   }, {
@@ -27,8 +30,5 @@
   }, {
     "title" : "List of Candidates Admitted (Round 2) from Waiting List No.1 in Order of Merit - Data Engineering and Intelligent Systems (DEIS)",
     "url" : "https://ensiasd.uiz.ac.ma/2026/08/04/list-of-candidates-admitted-round-2-from-waiting-list-no-1-in-order-of-merit-data-engineering-and-intelligent-systems-deis/"
-  }, {
-    "title" : "List of Candidates Admitted from Waiting List No. 1 in Order of Merit",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/08/01/list-of-candidates-admitted-from-waiting-list-no-1-in-order-of-merit/"
   } ]
 }
