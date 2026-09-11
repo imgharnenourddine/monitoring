@@ -1,8 +1,11 @@
 {
-  "hash" : "1a26d97da85592ad0de9b60a3db7b21ca9a08fdf70aefea058a5255ecfaa65c8",
+  "hash" : "e8ed659dd5a75744823359cc27233adb470161bd4cbf8c6a4525198762e393ca",
   "articles" : [ {
     "title" : "Liste n° 8 des étudiants admis à partir de la liste d’attente n° 1, classés par ordre de mérite, en première année préparatoire au cycle ingénieur — Année universitaire 2026/2027",
     "url" : "https://ensiasd.uiz.ac.ma/2026/09/11/liste-n-8-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-classes-par-ordre-de-merite-en-premiere-annee-preparatoire-au-cycle-ingenieur-annee-universitaire-2026/"
+  }, {
+    "title" : "Emplois du temps – Cycle Ingénieur & Cycle Préparatoire – Session d’Automne – Année Universitaire 2026-2027",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/09/11/emplois-du-temps-1%ca%b3%e1%b5%89-annee-cycle-ingenieur-cycle-preparatoire-session-dautomne-annee-universitaire-2026-2027/"
   }, {
     "title" : "Liste n° 7 des étudiants admis à partir de la liste d’attente n° 1, classés par ordre de mérite, en première année préparatoire au cycle ingénieur — Année universitaire 2026/2027",
     "url" : "https://ensiasd.uiz.ac.ma/2026/09/09/liste-n-7-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-classes-par-ordre-de-merite-en-premiere-annee-preparatoire-au-cycle-ingenieur-annee-universitaire-2026/"
@@ -27,8 +30,5 @@
   }, {
     "title" : "Liste n° 2 des étudiants admis à partir de la liste d’attente n° 1, par ordre de mérite, en 1ʳᵉ année du cycle ingénieur — Année universitaire 2026/2027",
     "url" : "https://ensiasd.uiz.ac.ma/2026/08/07/liste-n-2-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-par-ordre-de-merite-en-1%ca%b3%e1%b5%89-annee-du-cycle-ingenieur-annee-universitaire-2026-2027/"
-  }, {
-    "title" : "Liste n° 2 des étudiants admis à partir de la liste d’attente n° 1, classés par ordre de mérite, en première année préparatoire au cycle ingénieur — Année universitaire 2026/2027",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/08/04/liste-n-2-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-classes-par-ordre-de-merite-en-premiere-annee-preparatoire-au-cycle-ingenieur-annee-universitaire-2026/"
   } ]
 }
