@@ -1,6 +1,9 @@
 {
-  "hash" : "64964ca4ec724992a1788ce8c7e71ec3c959bdcf4a0af7df391e7866875b387b",
+  "hash" : "174eb918bc428f30ffde0b5e08f5f523d2414a6c04b701c793edccc4c93c82b2",
   "articles" : [ {
+    "title" : "Liste des étudiants admis N°4 de la liste d'attente N° 1",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/09/16/liste-des-etudiants-admis-n4-de-la-liste-dattente-n-1/"
+  }, {
     "title" : "Liste n° 9 des étudiants admis à partir de la liste d’attente n° 1, classés par ordre de mérite, en première année préparatoire au cycle ingénieur — Année universitaire 2026/2027",
     "url" : "https://ensiasd.uiz.ac.ma/2026/09/15/liste-n-9-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-classes-par-ordre-de-merite-en-premiere-annee-preparatoire-au-cycle-ingenieur-annee-universitaire-2026/"
   }, {
@@ -27,8 +30,5 @@
   }, {
     "title" : "Liste n° 3 des étudiants admis à partir de la liste d’attente n° 1, par ordre de mérite, en 1ʳᵉ année du cycle ingénieur — Année universitaire 2026/2027",
     "url" : "https://ensiasd.uiz.ac.ma/2026/09/01/liste-n-3-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-par-ordre-de-merite-en-1%ca%b3%e1%b5%89-annee-du-cycle-ingenieur-annee-universitaire-2026-2027/"
-  }, {
-    "title" : "Liste n° 4 des étudiants admis à partir de la liste d’attente n° 1, classés par ordre de mérite, en première année préparatoire au cycle ingénieur — Année universitaire 2026/2027",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/09/01/liste-n-4-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-classes-par-ordre-de-merite-en-premiere-annee-preparatoire-au-cycle-ingenieur-annee-universitaire-2026/"
   } ]
 }
