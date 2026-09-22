@@ -1,6 +1,9 @@
 {
-  "hash" : "6b3538b3acab74ba77eb013930253a6b6d11193b88cf186df0ad435fda8ca7cb",
+  "hash" : "be6c01c9fb7d29a3a8cae4668482379a2de9da7fd6f2a20920b5967420b26f2c",
   "articles" : [ {
+    "title" : "Liste des candidats convoqués à l’épreuve orale d’accès au Master",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/09/22/liste-des-candidats-convoques-a-lepreuve-orale-dacces-au-master/"
+  }, {
     "title" : "Liste n° 10 des étudiants admis à partir de la liste d’attente n° 1 ( première année préparatoire au cycle ingénieur 2026/2027 )",
     "url" : "https://ensiasd.uiz.ac.ma/2026/09/16/liste-n-10-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-premiere-annee-preparatoire-au-cycle-ingenieur-2026-2027/"
   }, {
@@ -27,8 +30,5 @@
   }, {
     "title" : "Liste n° 5 des étudiants admis à partir de la liste d’attente n° 1, classés par ordre de mérite, en première année préparatoire au cycle ingénieur — Année universitaire 2026/2027",
     "url" : "https://ensiasd.uiz.ac.ma/2026/09/04/liste-n-5-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-classes-par-ordre-de-merite-en-premiere-annee-preparatoire-au-cycle-ingenieur-annee-universitaire-2026/"
-  }, {
-    "title" : "Emplois du temps – Semestres 5 et 7 – Session d’Automne – Année Universitaire 2026-2027",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/09/03/emplois-du-temps-semestres-5-et-7-session-dautomne-annee-universitaire-2026-2027/"
   } ]
 }
