@@ -1,6 +1,9 @@
 {
-  "hash" : "4dfba0643861bcaa0b70e5a62f52f2082d0e809d0c45d2cc7eafb3e105d38f39",
+  "hash" : "e8e6cb9d9776dabc3f07ed6c90b05377ad6c089ac84746533cea87ad6e4085f4",
   "articles" : [ {
+    "title" : "[ENSIASD] Programme Semaine Integration ENSIASD",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/10/02/ensiasd-programme-semaine-integration-ensiasd/"
+  }, {
     "title" : "Liste des candidats admis à s’inscrire au Master Sécurité des Systèmes Intelligents et Cyberdéfense",
     "url" : "https://ensiasd.uiz.ac.ma/2026/09/30/liste-des-candidats-admis-a-sinscrire-au-master-securite-des-systemes-intelligents-et-cyberdefense/"
   }, {
@@ -27,8 +30,5 @@
   }, {
     "title" : "Liste n° 7 des étudiants admis à partir de la liste d’attente n° 1, classés par ordre de mérite, en première année préparatoire au cycle ingénieur — Année universitaire 2026/2027",
     "url" : "https://ensiasd.uiz.ac.ma/2026/09/09/liste-n-7-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-classes-par-ordre-de-merite-en-premiere-annee-preparatoire-au-cycle-ingenieur-annee-universitaire-2026/"
-  }, {
-    "title" : "Liste n° 6 des étudiants admis à partir de la liste d’attente n° 1, classés par ordre de mérite, en première année préparatoire au cycle ingénieur — Année universitaire 2026/2027",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/09/07/liste-n-6-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-classes-par-ordre-de-merite-en-premiere-annee-preparatoire-au-cycle-ingenieur-annee-universitaire-2026/"
   } ]
 }
