@@ -1,8 +1,11 @@
 {
-  "hash" : "ab20b21c2a3c8a83c345a5e87364d4d6b9fe87c629609740dcbeaecee7628774",
+  "hash" : "e904676c955e2b636b9b05e02ea3f579d29ef9705639e7873f083403d1d752e3",
   "articles" : [ {
     "title" : "Liste des 5 étudiants admis à partir de la liste d’attente Sécurité des Systèmes Intelligents et Cyberdéfense",
     "url" : "https://ensiasd.uiz.ac.ma/2026/10/06/liste-des-5-etudiants-admis-a-partir-de-la-liste-dattente-securite-des-systemes-intelligents-et-cyberdefense/"
+  }, {
+    "title" : "Liste des candidats admis à s’inscrire au Master Ingénierie des Données et Intelligence Artificielle",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/10/06/liste-des-candidats-admis-a-sinscrire-au-master-ingenierie-des-donnees-et-intelligence-artificielle/"
   }, {
     "title" : "[ENSIASD] Programme Semaine Integration ENSIASD",
     "url" : "https://ensiasd.uiz.ac.ma/2026/10/02/ensiasd-programme-semaine-integration-ensiasd/"
@@ -27,8 +30,5 @@
   }, {
     "title" : "Liste n° 8 des étudiants admis à partir de la liste d’attente n° 1, classés par ordre de mérite, en première année préparatoire au cycle ingénieur — Année universitaire 2026/2027",
     "url" : "https://ensiasd.uiz.ac.ma/2026/09/11/liste-n-8-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-classes-par-ordre-de-merite-en-premiere-annee-preparatoire-au-cycle-ingenieur-annee-universitaire-2026/"
-  }, {
-    "title" : "Emplois du temps – Cycle Ingénieur & Cycle Préparatoire – Session d’Automne – Année Universitaire 2026-2027",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/09/11/emplois-du-temps-1%ca%b3%e1%b5%89-annee-cycle-ingenieur-cycle-preparatoire-session-dautomne-annee-universitaire-2026-2027/"
   } ]
 }
