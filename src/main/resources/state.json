@@ -1,6 +1,9 @@
 {
-  "hash" : "e904676c955e2b636b9b05e02ea3f579d29ef9705639e7873f083403d1d752e3",
+  "hash" : "80ffbad662ac50e8729cf7f6b2a2c8430c744c86767987869f35b2bd689daff3",
   "articles" : [ {
+    "title" : "Listes des étudiants admis à partir de la liste d’attente IDIA et SSIC",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/10/09/listes-des-etudiants-admis-a-partir-de-la-liste-dattente-idia-et-ssic/"
+  }, {
     "title" : "Liste des 5 étudiants admis à partir de la liste d’attente Sécurité des Systèmes Intelligents et Cyberdéfense",
     "url" : "https://ensiasd.uiz.ac.ma/2026/10/06/liste-des-5-etudiants-admis-a-partir-de-la-liste-dattente-securite-des-systemes-intelligents-et-cyberdefense/"
   }, {
@@ -27,8 +30,5 @@
   }, {
     "title" : "Liste des candidats admis CNC 2026",
     "url" : "https://ensiasd.uiz.ac.ma/2026/09/12/liste-des-candidats-admis-cnc-2026/"
-  }, {
-    "title" : "Liste n° 8 des étudiants admis à partir de la liste d’attente n° 1, classés par ordre de mérite, en première année préparatoire au cycle ingénieur — Année universitaire 2026/2027",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/09/11/liste-n-8-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-classes-par-ordre-de-merite-en-premiere-annee-preparatoire-au-cycle-ingenieur-annee-universitaire-2026/"
   } ]
 }
