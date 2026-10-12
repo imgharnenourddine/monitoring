@@ -1,6 +1,12 @@
 {
-  "hash" : "80ffbad662ac50e8729cf7f6b2a2c8430c744c86767987869f35b2bd689daff3",
+  "hash" : "8aa538c2d22e63ce0bc39eb9c9c31ce5e1d8281dffe081b4dedfee6735aacefe",
   "articles" : [ {
+    "title" : "[Nouveau] Listes des étudiants admis à partir de la liste d’attente IDIA et SSIC",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/10/12/nouveau-listes-des-etudiants-admis-a-partir-de-la-liste-dattente-idia-et-ssic/"
+  }, {
+    "title" : "Septième édition du Prix Lalla Meryem de l’Innovation et de l’Excellence",
+    "url" : "https://ensiasd.uiz.ac.ma/2026/10/12/septieme-edition-du-prix-lalla-meryem-de-linnovation-et-de-lexcellence/"
+  }, {
     "title" : "Listes des étudiants admis à partir de la liste d’attente IDIA et SSIC",
     "url" : "https://ensiasd.uiz.ac.ma/2026/10/09/listes-des-etudiants-admis-a-partir-de-la-liste-dattente-idia-et-ssic/"
   }, {
@@ -24,11 +30,5 @@
   }, {
     "title" : "Liste des étudiants admis N°4 de la liste d'attente N° 1",
     "url" : "https://ensiasd.uiz.ac.ma/2026/09/16/liste-des-etudiants-admis-n4-de-la-liste-dattente-n-1/"
-  }, {
-    "title" : "Liste n° 9 des étudiants admis à partir de la liste d’attente n° 1, classés par ordre de mérite, en première année préparatoire au cycle ingénieur — Année universitaire 2026/2027",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/09/15/liste-n-9-des-etudiants-admis-a-partir-de-la-liste-dattente-n-1-classes-par-ordre-de-merite-en-premiere-annee-preparatoire-au-cycle-ingenieur-annee-universitaire-2026/"
-  }, {
-    "title" : "Liste des candidats admis CNC 2026",
-    "url" : "https://ensiasd.uiz.ac.ma/2026/09/12/liste-des-candidats-admis-cnc-2026/"
   } ]
 }
